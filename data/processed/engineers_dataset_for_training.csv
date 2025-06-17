@@ -1,0 +1,476 @@
+education_level,discipline,years_total_experience,years_skill_main,current_job_title,skills,certifications,num_promotions,avg_tenure_months,gap_months_last5y,location_city,work_authorization,gender,age_range,languages.English,languages.Spanish,languages.Hindi,languages.Armenian,languages.German,languages.Turkish,languages.Mandarin,apto
+Bachelor,Business Administration,10,9,Engineering Technician,"['PC Operating Systems' 'Microsoft Office' 'Outlook' 'Internet' 'MS Excel'
+ 'PowerPoint' 'Oracle' 'network systems' 'documentation' 'inspection'
+ 'logistics' 'safety' 'scheduling' 'shipping' 'supervision']",[],2,36,0,Texas,Authorized,Male,30-40,Native,,,,,,,-1
+Other,Engineering,20,20,Engineering Assistant,"['Administrative support' 'Critical thinking' 'Project management'
+ 'Quality assurance' 'Technical review' 'Document control'
+ 'Team management' 'Problem solving' 'Maintenance' 'Electrical systems']",[],2,24,0,Pearl Harbor,US Citizen,Male,40-50,Native,,,,,,,-1
+Other,,25,15,Engineering Manager,"['Project management' 'Process improvement' 'Testing' 'Evaluation'
+ 'Analysis' 'Electrical wiring' 'Plumbing' 'HVAC' 'Carpentry' 'Soldering'
+ 'Welding' 'Detail-oriented' 'Safety']",[],2,36,0,City,Yes,Male,46-55,,Native,,,,,,-1
+Bachelor,Computer Science,2,2,Engineering Intern,['AutoCAD' 'BIM' 'C++' 'Python' 'Autodesk Inventor' '3Ds Max'],['BSA Eagle Scout'],0,6,0,Lynchburg,Yes,Male,18-24,Native,,,,,,,-1
+Bachelor,Civil Engineering,25,15,Engineering Technician,"['Design/Drafting' 'Surveying' 'Construction Inspection'
+ 'Environmental Sampling' 'Data Processing'
+ 'Software: Microstation, GeoPak, ArcView, Microsoft Access, AutoCad, Eagle Point']",[],2,60,0,City,Yes,Male,40-50,Native,,,,,,,-1
+Bachelor,Engineering,17,10,Test Engineer,"['Digital/Analog Circuits Design' 'RF Circuits Troubleshooting'
+ 'Python Scripting' 'UNIX Script & Shell Programming'
+ 'Networking Essentials' 'Test Equipment Operation' 'Lean Six Sigma'
+ 'CAD Design']",['Bronze Six Sigma'],2,72,0,City,Yes,Male,35-44,C1,,,,,,,1
+Bachelor,Engineering Technology,15,10,Engineering Technician,"['Operational analysis' 'Root cause analysis' 'Technical plan execution'
+ 'Time management' 'Product improvement' 'Manufacturing process controls'
+ 'SolidWorks' 'Complex system troubleshooting']",[],2,36,0,City,Yes,Male,40-50,Native,,,,,,,-1
+Bachelor,Engineering,2,1,Engineering Intern,"['DMAIC' 'FMEA' 'Kaizen' 'Lean Manufacturing' '5S' 'Value Stream Mapping'
+ 'Root Cause Analysis' 'Statistical Process Control' 'Process Capability'
+ 'ANOVA' 'Gage R & R' 'Programmable Logic controls (PLC)'
+ 'Discrete Control system (DCS)' 'Minitab' 'Pro-E' 'Auto-Cad' 'C++' 'C'
+ 'Visual Basics']",[],0,6,0,Navi Mumbai,Yes,Male,25-30,C1,,B2,,,,,-1
+Bachelor,Engineering,3,3,Engineering Assistant,"['C' 'R' 'Catia' 'AutoCAD' 'ANSYS' 'Microsoft office'
+ 'Product Project Management' 'GD&T' 'Minitab' 'Kanban' 'Kaizen' 'FMEA'
+ 'Toyota production systems' 'APQP' 'PPAP' '8D' '5 why' ""KPI's""
+ 'Reliability SAE Standards' 'Vehicle ergonomics' 'DVP&R' 'QCC'
+ 'CNC engineering']",[],1,36,0,City,Yes,Male,25-34,C1,,,,,,,-1
+Bachelor,Electronic Technology,31,24,Thermal Technician,"['Critical Thinking' 'Effective Multitasking' 'Deadline Compliance'
+ 'Problem Solving' 'Troubleshooting' 'Schematics Reading'
+ 'Microsoft Office Suite' 'Production Scheduling']",[],1,36,0,City,Yes,Male,41-50,Native,,,,,,,-1
+Bachelor,Mechanical Engineering,23,10,Engineering Manager,"['Microsoft Office' 'Pro/ENGINEER' 'Pro/Mechanical' 'Solid Edge' 'AutoCAD'
+ 'Microsoft Navision' 'Microsoft Project' 'Moldflow']",[],2,48,0,City,US Citizen,Male,35-44,Native,,,,,,,-1
+Bachelor,Petroleum Engineering,4,0,Engineering Intern,"['SolidWorks' 'Electrical drafting' 'Project management'
+ 'Safety procedures' 'Technical guidance']",[],1,6,0,City,Yes,Male,25-34,,,,,,,,-1
+Bachelor,Engineering,23,5,Engineering Supervisor,"['Accounting' 'Project Management' 'Team Leadership'
+ 'Analytical Reasoning' 'Government Contracting' 'Full-cycle Accounting'
+ 'Quickbooks Pro' 'J.D. Edwards ERP']",['CPA Candidate'],2,60,0,City,US Citizen,Male,45-54,Native,,,,,,,-1
+Bachelor,Engineering,1,1,Engineering Intern,"['Know-your-consumer (KYC)' 'Statistical process control'
+ 'Cost reduction and avoidance' 'Systems Engineering'
+ 'Systems Engineering management' 'Software systems engineering'
+ 'Quality control' 'Failure analysis' 'Tools of operations research'
+ 'MS Office' 'Auto CAD']",[],0,1,0,Unknown,Yes,Unknown,20-30,B2,,,,,,,0
+Bachelor,Automotive Engineering,3,2,Engineering Intern,"['AutoCAD' 'Ansys' 'Cero' 'CATIA' 'HyperMesh' 'DFMEA' 'MS Office Suite'
+ 'Fortran' 'C' 'MATLAB/Simulink' 'CNC Programming']",[],0,6,0,Dearborn,Yes,Male,25-30,B2,,,,,,,0
+Bachelor,Civil Engineering,9,8,Engineering Intern,"['engineering design' 'cost estimation' 'hydrology calculations'
+ 'land surveys' 'highway alignments' 'project management'
+ 'plumbing installation' 'pipefitting']",['PMP' 'NITC Plumbing/Pipe Fitting Journeyman License'],1,36,0,San Diego,Yes,Male,25-34,Native,,,,,,,-1
+Master,Electrical Engineering,5,3,Graduate Teaching Assistant,"['MATLAB' 'Simulink' 'Siemens PSS@E' 'Power World' 'ETAP' 'LabVIEW'
+ 'Multisim' 'RT-LAB' 'C++' 'MS office' 'PLC programming' 'HMI' 'SCADA'
+ 'Servo drives' 'VFD' 'Hydraulic control' 'Pneumatic control']","['Certificate in Industrial Automation & Control'
+ 'Certificate in SPI Intools']",1,12,0,Houston,US Citizen,Male,25-34,C1,,B2,,,,,1
+Master,Engineering,6,6,Engineering Manager,"['Linux' 'Unix' 'RTOSs' 'C' 'C++' 'Visual C++' 'Visual Basic' 'Java'
+ 'Machine Learning' 'Embedded Systems' 'Middleware Development'
+ 'Content Protection Systems' 'Agile Development'
+ 'Cross-functional Team Management']",[],1,36,0,City,Yes,Male,35-44,C1,,,,,,,1
+Associate,Administrative Assistance,26,20,Engineering Coordinator,"['Word' 'SAP' 'Time Approval' 'Excel' 'Travel Arranger' 'Access Database'
+ 'Purchase Reqs in SAP' 'OutLook' 'IOs in SAP' 'Pcard purchases'
+ 'Royalty Agreement Tracking']",[],2,36,0,City,United States,,41-50,,,,,,,,0
+Bachelor,Engineering,9,8,Engineering Technician,"['Lean principles' 'Microsoft Excel' 'Microsoft Word'
+ 'Engineering operational functions' 'Manufacturing systems integration'
+ 'Assembly drawing' 'Design instruction creation' 'Labview' 'ERP systems'
+ 'Root cause analysis' 'System Testing verification'
+ 'Software configuration testing']",[],1,36,0,City,Yes,Male,30-40,C1,,,,,,,-1
+Master,Electrical Engineering,5,3,Engineering Intern,"['Testing' 'Troubleshooting' 'Embedded Hardware & Software'
+ 'Microprocessors' 'Hardware & Software design'
+ 'Digital signal processing' 'Analog and Digital Filter design'
+ 'Reading Circuit Schematics' 'Circuit Design and Analysis'
+ 'Digital logic' 'Soldering' 'Project management' 'Electronics'
+ 'Low and High voltage devices' 'Power Systems Analysis'
+ 'Active Noise Cancelling (ANC)' 'Research and Development'
+ 'Solar PV systems Design' 'National Electric Code (NEC)'
+ 'Engineering Ethics' 'Failure Analysis' 'Logistics' 'Instrumentation'
+ 'Programming']",[],0,12,0,City,US,Male,25-30,Native,,,,,,,1
+Associate,Engineering,3,1,Engineering Assistant,"['Problem solving' 'Teamwork' 'Attention to detail' 'Computer proficiency'
+ 'Time management' 'Interpersonal skills' 'Technical writing'
+ 'Quality assurance']",[],0,6,0,Bellevue,Yes,Female,20-25,Native,,,,,,,0
+Bachelor,Engineering,20,20,Engineering Manager,"['Test Management' 'Software Testing' 'Agile Methodologies'
+ 'Automation Frameworks' 'Cross-Platform Development' 'Team Leadership'
+ 'Continuous Integration' 'Performance Testing' 'SaaS Testing' 'C/C++'
+ 'C#' 'Java' 'Objective C']",[],3,60,0,City,Yes,Male,40-50,C1,,,,,,,1
+Bachelor,Engineering,27,15,Engineering Manager,"['CNC programming' 'Cost estimating' 'Lean manufacturing'
+ 'Problem solving' 'Project management' 'Tool design'
+ 'Manufacturing processes' 'Quality control']",[],3,48,0,City,US Citizen,Male,40-50,Native,,,,,,,-1
+Bachelor,Engineering,11,8,Manager Engineering Manufacturing Systems Engineering Manager,"['Project Management' 'Team Leadership' 'Process Improvement'
+ 'Budget Management' 'IT Strategy' 'Collaboration' 'SharePoint Migration'
+ 'CMMI Standards']",[],3,18,0,City,US Citizen,Male,35-44,C1,,,,,,,-1
+Bachelor,Engineering,27,20,Engineering Specialist,"['Allen Bradley PLC programming' 'Fanuc Robotics programming'
+ 'ABB Robotics programming' 'Electrical troubleshooting'
+ 'Mechanical troubleshooting' 'Hydraulic systems knowledge'
+ 'Pneumatic systems knowledge' 'Microsoft Office Suite']","['Project Leader Training Honda'
+ 'Paint Emergency Spill and Response Honda'
+ 'Spill Prevention, Control, & Countermeasures Honda'
+ 'Handling of Normal Hazardous Waste Honda'
+ 'Robotic Safety Principles Honda' 'ARC Flash Training Honda'
+ 'Basic Hydraulics/ Pneumatics Honda' 'Catia' 'Auto Cad Level 1']",3,60,0,City,Authorized,Male,40-50,Native,,,,,,,-1
+Bachelor,Electrical Engineering,10,10,Engineering Technician,"['fault isolation' 'preventive maintenance' 'corrective maintenance'
+ 'troubleshooting' 'soldering' 'calibration' 'documentation development'
+ 'equipment installation' 'electrical testing' 'production yield analysis']",[],2,24,0,City,Yes,Male,30-40,C1,Native,,,,,,-1
+Master,Engineering,5,3,Research Engineer,"['C++' 'Python' 'MATLAB' 'Git' 'Bash' 'R' 'SQL' 'Scikit-learn' 'Pandas'
+ 'Seaborn' 'matplotlib' 'TensorFlow' 'CFD-DEM' 'OpenFOAM' 'CFD-ACE+®'
+ 'Fluent®' 'COMSOL®' 'LAMMPS' 'LIGGGHTS' 'CMG®' 'FracPro®' 'Saphir' 'SEM'
+ 'AFM' 'Confocal Microscopy' 'Regression analysis'
+ 'Statistical process control' 'Design of experiments']",[],1,12,0,Austin,Yes,Male,25-34,C1,,,,,,,1
+Bachelor,Sociology Business Management,10,7,Engineering Technologist,"['data analyzing' 'administrative roles' 'customer service'
+ 'account maintenance' 'problem-solving' 'Microsoft Office' 'OpenWells'
+ 'Spotfire' 'SAP' 'Concur' 'QuickBooks' 'Adobe' 'event planning'
+ 'logistics coordinating' 'data entry' 'scheduling' 'dispatching'
+ 'communication']",[],2,24,0,City,Yes,Female,30-40,Native,,,,,,,-1
+Bachelor,Engineering,20,20,Engineering Manager,"['Lean Manufacturing' 'Continuous Improvement' 'Six Sigma'
+ 'Microsoft Office' 'Visio' 'Inventor' 'SPC' 'FMEA' 'Minitab'
+ 'Process improvement']","['Applied Industrial Ergonomics'
+ 'Lean Certification (Parker Lean Boot Camp I, II, and III)'
+ 'EPA Certification' 'AWS Brazing Certification'
+ 'Six Sigma Academy Greenbelt Training'
+ 'Purdue University Poke-a-Yoke Certification']",3,48,0,City,Yes,Male,40-50,,,,,,,,-1
+Bachelor,Engineering,8,8,Engineering Associate,"['Electro-mechanical design' 'JMP' 'Microsoft Visual Basic'
+ 'Microsoft Excel' 'Vision system programming' 'Microsoft PowerPoint'
+ 'Electronic computer systems' 'Microsoft Visio' 'Engineering software'
+ 'Six Sigma' 'Statistical Analysis' 'AutoCad' 'Electrical Troubleshooting'
+ 'Mechanical design/implementation']",[],2,60,0,City,Yes,Male,30-40,Native,,,,,,,-1
+Bachelor,Mechanical Engineering,30,30,Engineering Manager,"['Project management' 'Paper converting equipment'
+ 'Facility and plant modifications' 'DMF and Project Work Process'
+ 'Written and verbal communication' 'AutoCAD' 'Excel']",[],3,36,0,City,Yes,Male,51-60,Native,,,,,,,-1
+Bachelor,Engineering Technology,10,6,Engineering Technician,"['CAD' 'GIS' 'AutoCAD' 'ArcGIS' 'C#' 'Java' '3D Studio Max'
+ 'Remote Sensing' 'Microsoft Office' 'Basic Surveying Principles']",[],1,36,0,Unknown,Yes,Male,30-40,,,,Native,,,,-1
+Master,Electrical Engineering,6,5,Engineering Officer,"['Preventive maintenance' 'Calibration of equipment' 'Control systems'
+ 'Automation' 'Distributed Control Systems'
+ 'Programmable Logic Controllers' 'Production optimization']",[],1,12,0,City,USA,Male,30-35,C1,,B2,,,,,-1
+Bachelor,Electrical Engineering,15,12,Engineering Tech,"['SEM' 'EDX' 'X-Ray Analysis' 'Gas Chromatography'
+ 'High Purity Liquid Chromatography' 'Stress/Strain collection' 'C++'
+ 'SQL' 'Verilog' 'VHDL' 'MatLab' 'PSpice' 'LTSpice' 'PowerWorld' 'LabView'
+ 'Windows 2000/XP' 'Web Design' 'MS Office' 'HTML programming']","['First Aid Certified' 'Blood Borne Pathogen Certified'
+ 'Automated Electric Defibrillator Certified' 'CPR certified']",2,60,0,City,Yes,Male,30-40,Native,,,,,,,1
+Bachelor,Electrical Engineering,20,20,Engineering Manager,"['Project Management' 'Equipment Engineering' 'Process Sustaining'
+ 'Budget Development' 'Staff Training/Development'
+ 'Cross-Functional Team Leadership' 'Quality System Management'
+ 'Root-Cause Problem Solving' 'Lean Manufacturing']",[],3,288,0,City,Yes,Male,45-54,Native,,,,,,,-1
+High School,Electrical Engineering,9,4,Engineering Supervisor,"['Project management' 'Drilling engineering' 'Building commissioning'
+ 'Quality troubleshooting' 'Electrical systems' 'Plumbing'
+ 'Mechanical equipment repair' 'Customer service'
+ 'Interpersonal communication' 'Organizational skills']",[],2,60,0,City,USA,,30-40,,,,,,,,-1
+Bachelor,Civil Engineering,2,2,Engineering Intern,"['Bluebeam' 'Mathcad' 'Microsoft Word' 'Excel' 'Project' 'Powerpoint'
+ 'Autocad Civil 3D']",[],0,3,0,City,Yes,,20-30,,,,,,,,0
+Associate,Drafting and Design,4,2,Engineering Technician,"['3D modeling' 'architectural drafting' 'AutoCAD' 'read blueprints'
+ 'carpentry' 'drafting' 'floor plans' '3dsMax' 'mechanical'
+ 'Microsoft Office applications' 'problem solving' 'renovation' 'Revit']",[],0,12,0,City,Yes,Male,25-34,C1,,,,,,,0
+Bachelor,Civil Engineering,6,1,Medical Receptionist,"['MicroStation' 'AutoCAD' 'GuideSign' 'Google Earth' 'MS Excel'
+ 'MS PowerPoint' 'MS Word']",[],0,12,0,Fairfax,US Citizen,Female,25-34,Native,,,,,,,-1
+Bachelor,Engineering,5,2,Engineering Technician,"['Installation' 'Customer service' 'Cash handling'
+ 'Excellent communication skills' 'Power and hand tools' 'Repair Work'
+ 'Planning' 'Groundskeeping and Landscaping' 'Handheld Computers'
+ 'Pressure Washing' 'Safety Monitoring and Compliance' 'Mechanical Repair'
+ 'Critical Thinking' 'Facilities Painting and Repair'
+ 'Heavy Object Lifting' 'Troubleshooting and Diagnostics']",[],1,24,0,City,Yes,Male,25-34,C1,,,,,,,-1
+Bachelor,Mechanical Engineering,6,6,Engineering Manager,"['Microsoft Office' 'Microsoft Project' 'Product development'
+ 'Quality Research' 'Six Sigma Green Belt' 'Solid Works' 'Visio'
+ 'Prioritization' 'Personnel management' 'Critical thinking skills'
+ 'Team management' 'Cost analysis' 'Designing' 'Validation']",['Management Leadership Certification' 'Six Sigma Greenbelt certification'],2,18,0,City,Yes,Male,30-40,C1,,,,,,,-1
+Bachelor,Engineering,1,1,Engineering Intern,"['C' 'Python' 'R' 'STK' 'CATIA' 'ANSYS' 'LaTeX' 'SolidWorks'
+ 'Microsoft Office' 'Microsoft Project']","['Scrum Fundamentals Certified' 'Data Science Fundamentals Certified'
+ 'Oracle SQL Developer' 'Advanced SQL: SQL Expert']",0,6,0,Sydney,Permanent Residency,Male,20-25,Native,,,,,,,-1
+Bachelor,Electronics and Instrumentation Engineering,9,9,Engineering Manager,"['Autocad' 'SAP' 'Python' 'Labview' 'ASME' 'OSHA' 'PCB Design'
+ 'Project Management']",['EIT License in process'],2,24,0,City,Yes,Male,30-40,B2,Native,,,,,,1
+Bachelor,Electrical Engineering,15,12,Engineering Supervisor,"['PLC' 'Java' 'C' 'Visual Basic' 'VHDL' 'PSpice' 'Assembly' 'Labview'
+ 'AutoCAD' 'Inventor' 'Matlab' 'Microsoft Office' 'PSIM' 'Easy Power'
+ 'Xilinx ISE' 'Protel' 'Siemens Step 7' 'Wago CoDeSys'
+ 'Allen Bradley RSLogix' 'ERP']",[],2,36,0,City,Yes,Male,30-40,C1,,,,,,,-1
+Bachelor,Mechanical Engineering,8,8,Engineering Supervisor,"['CAD' 'FEA software' 'ISO document control' 'ASTM requirements'
+ 'API requirements' 'Plastics Manufacturing Processes'
+ 'Process Engineering' 'QA Management' 'AutoCAD'
+ 'Bluehill testing software' 'Solidworks' 'Algore FEA' 'Matlab'
+ 'Microsoft Office' 'Material testing' 'Chemical evaluations'
+ 'Design and drafting' 'ProE' 'Ansys' 'LabView']",['ISO 9001' 'AS9100'],2,36,0,City,Yes,Male,30-40,Native,,,,,,,-1
+Bachelor,Engineering,20,10,Engineering Manager,"['Process Design & Improvement' 'New Product Development'
+ 'Strategic Planning & Development' 'Lean & Six Sigma' 'Product Design'
+ 'Budgetary and Policy Development' 'Automation Design' 'Quality Control'
+ 'Project Management' 'Economic Analysis' 'Ergonomic and Safety Conscious']",[],3,18,0,Boyden,US Citizen,Male,35-44,Native,,,,,,,-1
+Bachelor,Engineering,10,10,Site Engineer,"['Manufacturing Quality' 'Controls and Instrumentation'
+ 'Equipment Maintenance' 'Mechanical Inspection Tools' 'Problem Solving'
+ 'Microsoft Office' 'Inventory Control' 'Data Entry' 'Assembler']",[],2,120,0,City,Yes,Male,30-40,C1,,,,,,,-1
+Bachelor,Engineering,24,24,Engineering Specialist,"['Project Management' 'Risk Management' 'Performance Tracking'
+ 'Team Building' 'Project Analysis' 'Leadership Mentoring'
+ 'Business Analysis' 'Operations Management' 'Process Development'
+ 'Technical Writing']",['Project Management Professional (PMP)'],2,36,0,City,US Citizen,Male,45-54,Native,,,,,,,-1
+Other,Telecommunications,25,15,Retired Engineering Assistant,"['TIRKS' 'Switch' 'LFACs' 'Microstation' 'ICGS / IDDS' 'Word' 'Excel'
+ 'RequestNet' 'AARDWOLF' 'ADTRAN' 'Microsoft Outlook' 'CCP' 'WSAM Image'
+ 'Lotus Sametime' 'Fiber Brains' 'Ringbuilder' 'Plat Indexes' 'VENUe'
+ 'WSAM-DC Fiber' 'Traffic Control' 'State Highway database' 'ASSIST'
+ 'Workforce Management systems']",[],2,60,0,City,US Citizen,Male,55-64,Native,,,,,,,0
+High School,Engineering,20,3,Facilities Tech,"['Preventative maintenance' 'Troubleshooting' 'Machine repair'
+ 'Concrete finishing' 'Brake systems expertise' 'Diagnosis and repair'
+ 'Inventory control' 'Equipment maintenance']",[],1,36,0,City,Yes,Male,35-44,C1,,,,,,,0
+Bachelor,Engineering,12,12,Director of Engineering,"['manufacturing' 'operations' 'engineering' 'project management'
+ 'ERP systems' 'configuration management' 'data analytics'
+ 'business intelligence' 'lean manufacturing' 'data-driven KPIs' 'AutoCAD'
+ 'Siemens PLM' 'SolidWorks PDM' 'Tableau' 'PowerBI' 'Cognos' 'MS Access'
+ 'Microsoft Project' 'Visio' 'SharePoint Designer' 'JIRA' 'Confluence'
+ 'MS Dynamics AX' 'Epicor']","['OMNEX High Performance Leadership Toolkit' 'Crucial Conversations'
+ 'Microsoft Project Management Essentials'
+ 'Microsoft SharePoint Essentials']",3,48,0,Las Vegas,US Citizen,Male,35-44,Native,,,,,,,-1
+Bachelor,Computer Science Information Systems,15,15,Software Engineering Manager,"['C#' 'ASP.NET' 'MVC' 'SQL' 'JavaScript' 'Java' 'Web Services' 'Agile'
+ 'Scrum' 'ETL' 'PHP' 'Visual Studio' 'SSRS' 'SSIS' 'IIS' 'SharePoint'
+ 'Eclipse' 'Apache' 'Cognos' 'SQL Server' 'Oracle']",[],3,36,0,City,Yes,Male,35-44,Native,,,,,,,1
+Bachelor,Electronics Engineering,23,23,Self-Sustaining Engineering Technician,"['communication' 'inspecting' 'Team Lead' 'modems' 'processes'
+ 'Scheduling' 'Technician' 'Trainer' 'Troubleshooting']",[],3,12,0,City,US Citizen,Male,40-50,,,,,,,,-1
+Bachelor,Software Engineering,20,10,Software Engineering Manager,"['Visual C++' 'Windows' 'STL' 'OOP' 'MFC' 'threads' 'file maps' 'ATL'
+ 'IPC' 'FTP' 'TCP' 'HTTP' 'XML' 'JSON' 'REST API' 'SOA' 'media formats'
+ 'codec SDK' 'MPEG-DASH' 'Scrum' 'Mercurial' 'Jenkins']",[],2,60,0,City,US Citizen,Male,40-50,C1,,,,,,,-1
+Bachelor,Software Engineering,20,10,Software Engineering Manager,"['Visual C++' 'Windows' 'STL' 'OOP' 'MFC' 'threads' 'file maps' 'ATL'
+ 'IPC' 'FTP' 'TCP' 'HTTP' 'XML' 'JSON' 'REST API' 'SOA' 'media formats'
+ 'codec SDK' 'MPEG-DASH' 'API design' 'Scrum' 'Mercurial' 'Jenkins']",[],3,60,0,Los Angeles,US Citizen,Male,40-50,C1,,,,,,,-1
+Bachelor,Software Engineering,18,14,Software Engineering Manager,"['Visual C++' 'Windows' 'STL' 'OOP' 'MFC' 'threads' 'file maps' 'ATL'
+ 'IPC' 'FTP' 'TCP' 'HTTP' 'XML' 'JSON' 'REST API' 'SOA' 'media formats'
+ 'codec SDK' 'MPEG-DASH' 'Scrum' 'Mercurial' 'Jenkins' 'C#' 'JavaScript']",[],2,48,0,City,Yes,Male,35-44,C1,,,,,,,1
+Bachelor,Software Engineering,20,10,Software Engineering Manager,"['Visual C++' 'Windows' 'STL' 'OOP' 'MFC' 'threads' 'file maps'
+ 'memory management' 'COM' 'ATL' 'IPC' 'FTP' 'TCP' 'HTTP' 'XML' 'JSON'
+ 'REST API' 'SOA' 'media formats' 'codec SDK' 'MPEG-DASH' 'API design'
+ 'Scrum']",['Certified ScrumMaster'],3,60,0,Los Angeles,US Citizen,Male,40-50,C1,,,,,,,1
+Bachelor,Electrical Engineering,28,10,Electrical Engineering Lab Technician,"['high speed networking' 'lab network administration' 'problem resolution'
+ 'documentation' 'lab management' 'testing' 'data collection' 'diagnosing'
+ 'troubleshooting' '1G/10G Ethernet' 'Framers' 'Routers' 'Switches' 'ATM'
+ 'PON' 'PHY' 'SONET' 'Digital Home' 'Windows OS' 'Linux OS' 'MS Office'
+ 'LabView' 'multimeters' 'programmable DC power supplies'
+ 'frequency counters' 'oscilloscopes' 'function generators'
+ 'signal generators' 'logic analyzers' 'digital serial analyzers'
+ 'network traffic generators' 'PADS' 'Cadence' 'ORCAD' 'Mentor Graphic'
+ 'View Logic']",[],2,60,0,City,Yes,Male,40-50,Native,,,,,,,-1
+Bachelor,Biomedical Engineering,17,15,Biomedical Engineering Technician II,"['Microsoft Excel' 'Project' 'Visio' 'Adobe' 'Engineering standards'
+ 'OSHA regulations' 'MS Office' 'Procedure development'
+ 'Advanced anatomy knowledge' 'Embedded systems' 'Windows XP/Vista'
+ 'DHCP/DNS' 'Ethernet' 'Firewall' 'LAN aptitude' 'AVG' 'Printers'
+ 'PC Security systems' 'Manufacturing test methodologies'
+ 'Database servers' 'Local remote systems support' 'TCP/IP protocols'
+ 'Information security' 'Document management'
+ 'Excellent communication techniques' 'Problem solving skills']",[],1,60,0,City,Yes,Male,30-40,Native,,,,,,,-1
+Master,Computer Applications,14,8,QA Engineering Manager,"['QA Engineering' 'Bug Triage' 'Root cause analysis' 'Automation tools'
+ 'Technical communication' 'Resource planning' 'Strategic Planning'
+ 'Team building' 'Conflict resolution' 'Training & Development']",['EMV Certification'],4,36,0,City,Yes,Male,35-44,C1,,,,,,,-1
+Bachelor,Engineering,23,23,Director of Engineering,"['HVAC installation and maintenance' 'Electrical systems troubleshooting'
+ 'Mechanical systems repair' 'Team management' 'Budget management'
+ 'Safety compliance' 'Inventory management' 'Training and development']",[],3,36,0,Nassau,Yes,Male,45-54,Native,,,,,,,-1
+Bachelor,Business Administration,36,10,Engineering Planning Manager,"['Inventory Management' 'Manufacturing Orders' 'Project Management'
+ 'Production Planning' 'MRP Software' 'Capacity Planning'
+ 'Customer Relations' 'Process Improvement']",[],5,36,0,City,Yes,Male,45-54,Native,,,,,,,-1
+Bachelor,Engineering Technology,8,8,Maintenance/Engineering Business Unit Leader,"['OEE' 'PLC programming' 'Fanuc Robot programming' 'CAD drawings'
+ 'wiring schematics' 'communication' 'problem solving' 'leadership'
+ 'organizational skills']",[],2,48,0,City,US Citizen,Male,30-40,Native,,,,,,,-1
+Bachelor,Engineering,20,6,Senior Engineering Program Manager,"['Program Management' 'Portfolio Management' 'Process Analysis'
+ 'Solution Design' 'Enterprise Software' 'Systems Integration'
+ 'Data Management' 'Product Excellence' 'Agile Methodology'
+ 'People Development' 'Leadership Development' 'Coaching/Mentoring']",[],2,36,0,City,US Citizen,Male,41-50,Native,,,,,,,-1
+Bachelor,Engineering,16,16,Facilities Engineering Manager,"['HVAC operation' 'Electrical systems management' 'Data Center management'
+ 'Capacity Planning' 'Power management' 'Preventative maintenance'
+ 'Corrective maintenance' 'Asset management' 'Project management'
+ 'Vendor negotiation']",[],2,192,0,City,Yes,Male,35-44,C1,,,,,,,-1
+Bachelor,Chemical Engineering,2,2,Software Engineering Analyst,"['C' 'SQL' 'Python' 'R' 'Tableau' 'HP ALM' 'HP QTP' 'MS Office' 'Trello'
+ 'Streak CRM' 'automation tools' 'business processes' 'functional testing'
+ 'event management']","['Coursera Introduction to interactive programming using Python'
+ 'Udemy certified SQL']",1,6,0,City,Yes,Female,25-30,C1,,,,,,,-1
+Bachelor,Engineering,11,11,Engineering Project Manager,"['Analog Layout Design' 'RF Design' 'Mixed Signal Layout Design'
+ 'Physical verification layout' 'Auto routers tools'
+ 'Post layout parasitic extraction' 'Data management tools']",[],2,48,0,Bangalore,USA,Male,30-40,C1,,,,,,,-1
+Bachelor,Engineering,20,11,Engineering Technician II,"['Excellent communication techniques' 'Engineering standards expert'
+ 'Complex problem solver' 'Advanced critical thinking' 'Microsoft Excel'
+ 'Project management' 'Troubleshooting specialist' 'Quality inspection'
+ 'Document management' '5S expert' 'Validation process specialist']",[],2,48,0,City,US Citizen,Male,35-44,Native,,,,,,,-1
+Master,Mechanical Engineering,5,5,Mechanical Engineering Tutor,"['AutoCad' 'MATLAB' 'Microsoft Office' 'Excel' 'Power Point' 'Outlook'
+ 'MySQL' 'VBA' 'Optimization' 'Statistics' 'Physics' 'Calculus']",[],1,12,0,Phoenix,Yes,Male,30-35,C1,,,,,,,-1
+Other,Business,20,15,Engineering Project Manager,"['Project Coordination' 'Effective communication' 'Microsoft Office'
+ 'Meeting facilitation' 'Resource management' 'Regulatory approvals'
+ 'Problem resolution']",['Business Certification'],2,36,0,City,Yes,Female,35-44,Native,,,,,,,-1
+Bachelor,Engineering,22,18,Multi-Skilled Engineering Manager,"['Microsoft Project' 'Microsoft Office' 'Microsoft Visio'
+ 'IBM Rationale DOORS' 'Risk Analysis' 'Process Improvement'
+ 'Earned Value Management']",[],3,48,0,City,US Citizen,Male,35-44,Native,,,,,,,-1
+Bachelor,Analytics,6,6,Engineering and Quality Technician,"['SAS' 'Web scraping' 'SQL' 'Predictive modelling' 'Data visualization'
+ 'Data cleaning' 'Data warehousing' 'Statistical modelling'
+ 'Machine Learning' 'R' 'Python' 'ASP.NET' 'C#' 'HTML' 'Tableau']",[],1,36,0,City,Yes,Male,30-40,C1,,,,,,,1
+Bachelor,Engineering,25,10,Regional Engineering Manager,"['technical solution architecting' 'cost estimating'
+ 'ITS/SCADA system design' 'disaster recovery planning'
+ 'technical program management' 'cross-team leadership'
+ 'engineering resource management' 'process improvement']",[],3,36,0,Dallas,USA,Male,45-54,C1,B2,,,,,,-1
+PhD,Engineering,10,5,Thermal Engineering Intern,"['FEM Analysis' 'MATLAB' 'ABAQUS' 'Solidworks' 'CNC Programming' 'G code'
+ 'Robotics' 'Thermal Analysis']",[],0,12,0,City,Yes,Male,25-34,C1,,,,,,,-1
+High School,Construction Engineering,20,13,Construction Engineering Supervisor,"['Construction supervision' 'Material estimation' 'Compliance inspection'
+ 'Circuit analysis' 'Signal flow tracing' 'Use of test instruments'
+ 'Map interpretation' 'Engineering tool development'
+ 'Communication system maintenance']","['First Aid training (2016)' 'Weapons training'
+ 'Security personnel training']",1,12,0,City,US Citizen,Male,40-50,Native,,,,,,,-1
+Bachelor,Industrial Engineering,26,2,Industrial Engineering Intern,"['Lean Manufacturing' 'Production Planning' 'Supply Chain Management'
+ 'MS Office' 'Minitab' 'PowerPoint' 'Excel' 'SolidWorks' 'AutoCAD' 'Pro E'
+ 'MS Access' 'SAP' 'Java' 'C' 'C++' 'Visual Basic' 'R' 'Python'
+ 'Time Study' 'Process Mapping' 'JIT' 'Work Sampling' 'Data Analysis'
+ 'Project Planning' 'CPM' 'PERT' 'Inventory Control' 'Facility Planning']",[],0,8,0,City,Yes,Male,25-30,C1,,,,,,,1
+Bachelor,Information Technology,7,7,Engineering Systems Installer,"['Microsoft Applications' 'Network Security' 'Networking'
+ 'PC hardware and software installation' 'Remote Desktop Management'
+ 'Technical Support' 'Team Leadership' 'Programming Languages' 'VoIP'
+ 'TCP/IP' 'LAN/WAN architecture' 'Application Development']",['Microsoft Certification'],1,78,0,City,Yes,Male,30-40,Native,,,,,,,-1
+Bachelor,Engineering,5,2,Lighting Field Engineering Technician,"['AutoCAD' 'Microsoft Excel' 'Microsoft Project' 'Microsoft Visio'
+ 'Project Management' 'Critical Thinking']",[],1,18,0,Tampa,US Citizen,Male,30-40,Native,,,,,,,-1
+Bachelor,Engineering,24,19,Process Engineering Technician III,"['pharmaceutical unit operations' 'milling' 'blending'
+ 'fluid bed granulation' 'aqueous coating' 'solvent-based coating'
+ 'laser drilling' 'drying' 'cGMP compliance' 'technical documentation'
+ 'process development' 'manufacturing' 'training operators'
+ 'quality assurance' 'process improvement']","['Pharmacy Exemptee Certificate' 'Yellow Belt Process Excellence'
+ 'Fundamentals of Pharmaceutical cGMPs'
+ 'HAZMAT Industrial Technician Certificate' 'First Site Supervisor'
+ 'Supervising for Safety' 'Training the Trainer'
+ 'How to Be a Better Communicator' 'ISO 9001' 'ISO 14001'
+ 'Excelling at Managing and Supervising' 'ERT Membership']",3,36,0,Mountain View,US Citizen,Male,40-50,Native,,,,,,,-1
+Other,Engineering Technology,25,10,Engineering Technician III,"['Troubleshooting' 'Repair' 'Installation' 'Electrical Systems'
+ 'Mechanical Systems' 'Pneumatic Systems' 'Data Acquisition'
+ 'AC/DC Motor Systems' 'Labview Software' 'Customer Service'
+ 'Safety Awareness']","['Lock out/Tag out' 'Arc Flash' 'Live Electrical' 'ESD certified'
+ 'ISO-9001 standards']",2,60,0,City,US Citizen,Male,40-50,,,,,,,,-1
+Bachelor,Information Technology,26,16,Support Engineering Manager,"['Windows Platforms' 'System Center' 'Setup' 'Cluster' 'Performance'
+ 'SCOM' 'Virtualization' 'App-V' 'VMM' 'Operations Manager' 'Orchestrator'
+ 'Service Manager' 'Azure cloud']",['Distinguished Toast Master'],3,60,0,Unknown City,US Citizen,Male,45-54,Native,,,,,,,-1
+Bachelor,Engineering,20,20,Engineering Services Manager,"['Industrial Automation' 'Process Engineering' 'Mechanical Design'
+ 'PLC Programming' 'SCADA Systems' 'Project Management'
+ 'Advanced Troubleshooting']",[],3,36,0,City,Yes,Male,41-50,Native,,,,,,,-1
+Other,Electrical Engineering,29,10,Engineering Technician V,"['VHF transceivers' 'satellite-based GPS systems'
+ 'electromagnetic interference (EMI)'
+ 'Differential Global Positioning System (DGPS)'
+ 'electronic communication equipment' 'cable installation'
+ 'electrical systems' 'computer systems' 'technical documentation'
+ 'team leadership']",[],2,12,0,Honolulu,US Citizen,Male,50-60,Native,,,,,,,0
+Bachelor,Information Technology,10,5,Software Engineering Team Lead,"['System Center Suite' 'SCOM' 'SCCM' 'SCVMM' 'Hyper V' 'Active Directory'
+ 'DNS' 'DHCP' 'Windows Clusters' 'PowerShell' 'VBScript']",[],2,30,0,USA,Yes,Male,30-40,Native,,,,,,,-1
+Bachelor,Industrial Engineering,15,10,Industrial Engineering Manager,"['Project planning and development' 'Strategic planning'
+ 'Lean manufacturing and design' 'Analytical' 'Procedure development'
+ 'Team leadership']",[],2,60,0,City,US Citizen,Male,35-44,Native,,,,,,,-1
+Other,Engineering,20,10,Equipment Engineering Technician,"['Material Management' 'Mechanical Test Equipment' 'Troubleshooting'
+ 'Electrical Systems' 'Factory Automation' 'Robotic Systems'
+ 'Customer Service' 'Forklift Operation' 'Crane Operation' 'NDT Level II'
+ 'Mechanical Theory' 'Pneumatic Theory' 'Hydraulic Theory']",['Forklift Certified' 'Crane Certified' 'NDT Level II'],2,12,0,City,US Citizen,Male,40-50,Native,,,,,,,-1
+Bachelor,Chemical Engineering,6,2,Chemical Engineering Intern,"['Project management' 'Scheduling tools' 'ChemCad' 'OAM' 'MES' 'EPI'
+ 'Structural red-line revisions' 'Process piping' 'Microsoft Office'
+ 'Quality control' 'Process improvement' 'Data analysis'
+ 'Safety procedures' 'Troubleshooting' 'Research engineering'
+ 'Validation tests']",[],0,12,0,Columbus,USA,,20-30,,B1,,,C1,,,-1
+Bachelor,Information Technology,8,4,Corporate Engineering Support Technician,"['Technical Support' 'Telecom Support' 'Networking Support'
+ 'Software Troubleshooting' 'Windows Installation' 'Linux Installation'
+ 'OS X Installation' 'SoHo Networks Configuration'
+ 'Documentation Creation' 'Mobile Device Support' 'VOIP Support'
+ 'Network Protocols' 'Security Implementation']",[],1,36,0,Remote,Authorized,Male,30-40,Native,,,,,,,-1
+Bachelor,Mechanical Engineering,5,3,Mechanical Engineering Intern,"['SolidWorks' 'AutoCAD' 'Fluid Mechanics' 'Thermal Analysis'
+ 'Project management' 'Material Science' 'Statistics' 'Time management'
+ 'Written communication' 'Verbal communication']",['Engineer-In-Training (EIT)'],0,12,0,San Diego,Yes,Male,20-30,C1,,,,,,,-1
+Bachelor,Mechanical Engineering,35,15,Engineering Manager/Quality Manager,"['Project Management' 'Quality Management System Implementation'
+ 'Production Management' 'Engineering Management' 'Process Development'
+ 'Cost Reduction' 'Process Improvement' 'Statistical Process Control']",[],3,180,0,DeLand,US Citizen,Male,50-60,Native,,,,,,,-1
+Bachelor,Engineering,10,5,Sr. Project Manager,"['Project Management' 'Agile Methodology' 'Microsoft AX' 'Data Automation'
+ 'Client Relationship Management']",[],2,24,0,City,Yes,Male,30-40,Native,,,,,,,-1
+Bachelor,Accounting,25,10,Project Accountant,"['Financial statement analysis' 'Compliance testing' 'Budget forecasting'
+ 'Account reconciliation' 'Adobe software proficiency'
+ 'Complex problem solving' 'Organizational skills' 'Customer relations'
+ 'General ledger accounting' 'Advanced computer proficiency']",[],3,36,0,City,US Citizen,Female,35-44,Native,,,,,,,-1
+Bachelor,Software Engineering,20,10,Software Engineering Manager,"['Visual C++' 'Windows' 'OOP' 'STL' 'WinAPI' 'MFC' 'threads' 'ATL' 'IPC'
+ 'FTP' 'TCP' 'HTTP' 'XML' 'JSON' 'REST API' 'SOA' 'media formats'
+ 'codec SDK' 'MPEG-DASH' 'API design' 'documentation' 'Scrum' 'Mercurial'
+ 'Jenkins']",[],2,60,0,Burbank,US Citizen,Male,40-50,C1,,,,,,,-1
+Bachelor,Biomedical Engineering,12,12,Clinical Engineering Manager,"['medical equipment management' 'regulatory compliance' 'risk management'
+ 'project management' 'team building' 'leadership' 'customer service'
+ 'interpersonal relations' 'negotiation' 'written communication'
+ 'verbal communication' 'preventive maintenance'
+ 'electrical safety procedures' 'DICOM protocol' 'LAN/WLAN management']",[],3,36,0,Charleston,US Citizen,Male,40-50,Native,,,,,,,-1
+Bachelor,Engineering,30,10,Corporate Process/Systems Engineering Manager,"['Lean Manufacturing' 'Six Sigma' 'RCM' 'FMEA' 'DMAIC' 'PFD'
+ 'Microsoft Office' 'Microsoft Visio' 'Business Objects' 'SAP'
+ 'Visual Studio' 'SQL Server' 'HTML' 'CSS' 'Java' 'JavaScript' 'C++'
+ 'VB.NET' 'ASP.NET' 'PowerSteering']",['Six Sigma Certified'],2,30,0,City,US Citizen,Male,50-60,Native,,,,,,,1
+Master,Materials and Metallurgical Engineering,3,3,Mineralogy Engineering Intern,"['Metallurgical' 'Metallurgical Engineering' 'Fundraising' 'Mec'
+ 'Exploration' 'Metallurgy' 'Laboratory' 'Operations' 'Maintenance' 'Xrf'
+ 'Coatings' 'Corrosion' 'Materials Engineering' 'Pipeline']",[],0,4,0,City,USA,,25-30,,,,,,,,-1
+Bachelor,Mechanical Engineering,12,12,Engineering Manager/Senior Mechanical Designer,"['Global Operations Management' 'Personnel Management' 'AutoCAD'
+ 'Budgeting' 'Planning' 'Forecasting' 'Training & Staff Development'
+ 'Six Sigma' 'Vendor Kanban Contracts' 'Lean Manufacturing'
+ 'AutoCAD Inventor' 'Product Cost Reduction' 'Team Leadership'
+ 'New Product Development' 'Organization/Time Management'
+ 'ANSI Drawing Standards' 'Inventory Control' 'Total Quality Management'
+ 'Mechanical Design' 'Project Management' 'Customer Service'
+ 'MS Office Suite' 'ROI Analysis' 'Safety/Security' 'Virtual Gibbs']",[],2,48,0,City,Yes,Male,35-44,Native,,,,,,,-1
+Bachelor,Mechanical Engineering,10,10,Director of Engineering,"['Project Management' 'Product Design' 'Product Development' 'Welding'
+ 'Fabrication' 'Material Handling' 'Quality Audits'
+ 'Instrumentation and Control' 'Budget Management'
+ 'Continuous Process Improvement']",['Qualified and Certified Lead Auditor'],2,48,0,City,Yes,Male,35-44,Native,,,,,,,-1
+Associate,Software Engineering,17,12,Engineering Team Lead,"['ASP' 'C#' 'VB.NET' 'SOAP' 'REST' 'JQuery' 'Bootstrap' 'CSS' 'HTML5'
+ 'MSSQL' 'MYSQL' 'DTS' 'SSIS' 'SSRS' 'IIS 5' 'IIS 6' 'Agile' 'Scrum'
+ 'Kanban' 'Objective C' 'PHP' 'Perl']",[],2,36,0,Milwaukee,US Citizen,Male,30-40,C1,,,,,,,-1
+Bachelor,Engineering,12,10,Director of Engineering,"['Product Development' 'Agile Methodologies' 'Team Leadership'
+ 'Software Development' 'Cloud Computing' 'UI/UX Design'
+ 'Project Management' 'Database Administration']",[],5,24,0,Atlanta,US Citizen,Male,35-44,Native,,,,,,,1
+Bachelor,Mechanical Engineering,4,2,Maintenance Engineering Co-Op,"['Computerized Maintenance Management System (CMMS)' 'Maximo'
+ 'Preventive Maintenance (PM)' 'Predictive Maintenance (PD)'
+ 'Process Failure Mode and Effects Analysis (PFMEA)'
+ 'Spindle Vibration Analysis' '5S Methodology' 'AutoCAD' 'ORACLE'
+ 'Lean Manufacturing' 'SolidWorks' 'ANSYS']",[],0,10,0,City,Yes,Male,20-30,Native,,,,,,,0
+High School,Clerical Support,4,1,Engineering Office Clerk,"['Clerical Support' 'Recordkeeping' 'GIS Data Entry' 'Document Scanning'
+ 'Customer Service']",[],0,12,0,City,Yes,Female,25-34,,,,,,,,0
+Bachelor,Engineering,15,15,Engineering Project Manager III,"['Project Management' 'Quality Control' 'Maintenance Management'
+ 'Logistics' 'Electronic & Mechanical Technology'
+ 'Quality Assurance/Control' 'Safety Compliance' 'Risk Management'
+ 'Change Control Processes' 'Lean/six sigma principles'
+ 'Mechanical Component Troubleshooting' 'Material Management'
+ 'Staff Development/Leadership' 'Technical Interface' 'Microsoft Office'
+ 'Microsoft Project' 'Microsoft Access' 'SAP' 'SharePoint']",[],2,36,0,City,Yes,Male,35-44,C1,,,,,,,-1
+Bachelor,Electronics and Communication Engineering Technology,13,6,Engineering Lab Technician,"['Construct, test and troubleshoot AC/DC circuits'
+ 'Determine voltage, current, resistance and power by calculations and measurements'
+ 'Identify electronic components and schematic symbols'
+ 'Utilize oscilloscopes to measure AC frequency' 'Soldering'
+ 'Troubleshoot faulty capacitors, inductors and transformers'
+ 'Use of hand tools for repairing and installing electronics'
+ 'Create circuits with Multisim CAD software'
+ 'Assemble/disassemble PCs and electronics'
+ 'Familiar with C+, C++, Java script, SQL, Visual Studio'
+ 'Understand Programmable Logic controllers'
+ 'Digital communications with fiber optics'
+ 'Understand different types of transmission lines'
+ 'Proficient with Microsoft Office Suite']",[],2,24,0,City,Yes,Male,30-40,Native,,,,,,,1
+Master,Mechanical Engineering,5,5,Mechanical Engineering Intern,"['CAD' 'CAM' 'Finite Element Analysis' 'Mechanical Design'
+ 'Product Design and Development' 'SolidWorks' 'Autodesk Inventor'
+ 'AutoCAD' 'CATIA' 'PTC CREO' 'HyperMesh' 'Abaqus' 'ANSYS' 'Optistruct'
+ 'Linear & Non-linear Static Analysis' 'Dynamic Analysis' 'GD&T'
+ 'Tolerance Analysis' 'Design Optimization' 'Sheet Metal Design' 'DFMEA'
+ '3D Printing']",['Autodesk Certified'],0,6,0,Chicago,Yes,Male,25-30,C1,,B2,,,,,-1
+Associate,Engineering,20,7,Engineering Lab Technician,"['DasyLab' 'Labview' 'Mechanical' 'Electrical' 'Lean/5S'
+ 'Hydraulic Testing' 'Test Stand Fabrication']",[],2,48,0,City,US Citizen,Male,35-44,,,,,,,,0
+Bachelor,Engineering,20,10,Senior Manufacturing Engineer,"['Web Handling' 'Printing' 'Extrusion' 'MS Office' 'Die Design' 'IPRIME'
+ 'Coatings' 'Microstructures' 'CNC' 'Polymer Processing' 'Servo Controls'
+ 'Calibrations' '6 Sigma' 'ASQ stats' 'Advance Regressions'
+ 'AutoCad Inventor' 'DSC and Melt Indexing' 'Instron testing methods'
+ 'Corona Treating' 'Pumps sizing']",[],3,48,0,Bedford,Yes,Male,35-44,C1,,,,,,,-1
+Master,Mathematical Engineering,8,3,Senior Engineering Manager,"['people management' 'leadership' 'documentation' 'multi-tasking'
+ 'innovation' 'creativity' 'SQL programming' 'data analysis'
+ 'statistical analysis' 'presentation design']",[],1,12,0,San Francisco,Yes,Female,30-40,C1,,,,,Native,,1
+Bachelor,Software Engineering,17,13,Engineering Operations Director,"['Java' 'Amazon AWS' 'Hibernate' 'PHP' 'EC2' 'Elastic Search' 'C++'
+ 'JSMVC' 'JUnit' 'C' 'HTML' 'Selenium' 'CanJS' 'CSS' 'Aurora' 'PL/SQL'
+ 'Bootstrap' 'Jenkins' 'Oracle' 'Python' 'Phabricator' 'My/SQL' 'AJAX'
+ 'GitHub' 'JavaScript' 'Camel' 'Jira' 'REST and SOAP services' 'MongoDB'
+ 'Perl']",[],3,24,0,City,US,Male,35-44,Native,,,,,,,1
+Bachelor,Engineering,13,10,Systems Engineering Manager,"['MS Project' 'Agile Software Development' 'Jira' 'Handsoft' 'ePDM'
+ 'Data Analysis' 'Customer Management Systems'
+ 'Hardware-Software Integration' 'Rational Requisite Pro' 'ClearQuest'
+ 'Visio' 'DOORS' 'LEAN/Six Sigma' 'Safety Engineering'
+ 'Requirements Engineering Creation' 'System Architecture Design' 'Creo'
+ 'Solidworks' 'ANSYS 14' 'DFMA' 'DFA/DFM' 'AutoCAD' 'Zemax' 'Unigraphics'
+ 'I-deas' 'Intralink' 'Windchill' 'Engineering Drawings' 'GD&T'
+ 'Tolerances' 'Bill of Materials' 'Cage Codes' 'ASME Standards'
+ 'Weld and Material Callouts' 'C++' 'JAVA' 'MathCAD' 'Matlab' 'Simulink'
+ 'Microsoft Visual Studio']",[],2,78,0,City,US Citizen,Male,35-44,Native,,,,,,,1
+Bachelor,Mechanical Engineering,25,10,Mechanical Engineering Intern,"['SolidWorks' 'Auto-Cad' 'Failure analysis' 'Project management'
+ 'Time management' 'Root cause analysis' 'Predictive maintenance'
+ 'Cross-disciplinary collaboration' 'Strategic prioritization'
+ 'Troubleshooting mechanical/electrical systems']",[],3,12,0,State,Yes,Male,45-54,Native,,,,,,,-1
+Bachelor,Computer Science,8,8,QA Engineering Team Lead,"['Quality Assurance' 'Automated Testing' 'Manual Testing'
+ 'Black Box Testing' 'Regression Testing' 'Functional Testing'
+ 'Stress Testing' 'Compatibility Testing' 'Integration Testing'
+ 'Bug Reporting' 'Error Handling' 'Test Plan Development']",[],1,6,0,City,Yes,Male,30-40,C1,,,,,,,-1
+Bachelor,Industrial Engineering,7,3,Industrial Engineering Intern,"['C#' 'ASP.NET' 'Visual Basic' 'Ms Visual Studio' 'Ms Office Suite'
+ 'Simulations using Witness13' 'SIMIO' 'ERP-SAP' 'SAS-STAT' 'AutoCAD']",[],1,24,0,Salt Lake City,Yes,Male,25-34,C1,,,,,,,-1
+Bachelor,Engineering,14,8,"Manager, Quality Engineering","['ProEngineer/CREO' 'MiniTab' 'MS Office Suite' 'MS Project' 'MS Visio'
+ 'Injection Molding' 'Trackwise' 'Catsweb']",[],3,36,0,City,Yes,Male,35-44,C1,,,,,,,-1
+Bachelor,Mechanical Engineering,3,2,Mechanical Design Engineering Intern,"['AutoCAD Mechanical' 'Pro/Engineer (Pro/E)' 'MATLAB' 'PTC Creo' 'Revit'
+ 'Autodesk Inventor' 'GD&T' 'Solidworks' 'Microstation' 'ANSYS Mechanical'
+ 'Microsoft Office']",[],0,6,0,City,Yes,Male,20-30,C1,,,,,,,0
+PhD,Mechanical Engineering,10,5,Process Engineering Intern,"['plasma etching' 'photolithography' 'wet etch processing' 'PVD'
+ 'Statistical Process Control (SPC)' 'Design of Experiments (DOE)'
+ 'MEMS fabrication' 'CAD layout design']",[],0,6,0,Seattle,Yes,Male,30-35,C1,,,,,,B2,-1
+Bachelor,Engineering Technology,16,16,Engineering Technician/ Field Service,"['Operational analysis' 'Time management' 'Geometric dimensioning'
+ 'Manufacturing process controls' 'Analog and digital circuitry'
+ 'Technical plan execution' 'Rigging' 'Soldering' 'Drilling' 'Tapping'
+ 'Measurement and layout' 'Test and measurement equipment'
+ 'Equipment calibration']",[],2,60,0,City,Yes,Male,40-50,Native,,,,,,,-1
